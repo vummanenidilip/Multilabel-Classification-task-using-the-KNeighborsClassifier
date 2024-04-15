@@ -26,7 +26,6 @@ Visuals matter! We make sure our figures are not just informative but also visua
 Now, let's dive into the code and see our project come to life!
 
 **Code:**
-Certainly! Here's the code snippet broken down line by line for inclusion in a README file on GitHub:
 
 ```markdown
 ### Setting Up Project Structure
